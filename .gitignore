@@ -1,0 +1,16 @@
+.spyproject
+Archived
+Data
+Docs
+Images
+.ipynb_checkpoints
+*.ini
+TEST Connecting to Azure DB.py
+*checkpoint.ipynb
+ATB Datathon 2019.ipynb
+CORR 1.py
+CORR 2.py
+CORR 3.py
+CORR 4.py
+SAMPLE Correlogram.py
+v_Census Definition.sql
